@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BasicCoreProblems
 {
-    public class PowerOf2
+    public class PowerOfTwo
     {
         public void Power()
         {
