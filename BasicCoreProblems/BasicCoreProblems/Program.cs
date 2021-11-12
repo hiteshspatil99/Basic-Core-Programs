@@ -35,7 +35,10 @@ namespace BasicCoreProblems
                         Factorial.Factorization();
                         break;
                     case 6:
-
+                        QuotientRemainder result = new QuotientRemainder();
+                        result.Division();
+                        break;
+                    case 7:
                         flag = false;
                         break;
 
