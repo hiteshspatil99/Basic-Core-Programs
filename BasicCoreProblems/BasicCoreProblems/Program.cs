@@ -30,7 +30,8 @@ namespace BasicCoreProblems
                         sum.Harmonic();
                         break;
                     case 5:
-                        Factorial.Factorization();
+                        Factors fc = new Factors();
+                        fc.Calculation();
                         break;
                     case 6:
                         QuotientRemainder result = new QuotientRemainder();
